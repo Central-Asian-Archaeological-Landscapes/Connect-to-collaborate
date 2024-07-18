@@ -1,8 +1,7 @@
 # This is the first line in a long document 
 
-## smaller header
+## Smaller header
 
-### yet smaller header
+### Yet smaller header
 
 The second line is here
-
